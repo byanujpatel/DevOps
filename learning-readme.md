@@ -479,3 +479,5 @@ Kubernetes ⏭️
 ```
 
 This covers about **80% of Linux + Shell Scripting** concepts you'll repeatedly use as a beginner DevOps engineer.
+
+#### Git and Github -- Next Topic
