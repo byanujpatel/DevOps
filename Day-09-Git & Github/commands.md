@@ -1,0 +1,8 @@
+- git init
+- git add
+- git status
+- git log
+- git diff
+- git commit -m "first"
+- ls -la (See hidden file)
+- git reset --hard commitId (move any version u commited)
